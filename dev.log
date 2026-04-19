@@ -1,0 +1,608 @@
+
+> expansionos-gallery@0.1.0 dev
+> next dev --hostname 0.0.0.0 --port 3000
+
+▲ Next.js 16.2.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://0.0.0.0:3000
+✓ Ready in 1258ms
+
+○ Compiling / ...
+ HEAD / 200 in 6.8s (next.js: 5.3s, application-code: 1462ms)
+ GET / 200 in 5.3s (next.js: 4.7s, application-code: 616ms)
+ GET /mission-control 200 in 1349ms (next.js: 997ms, application-code: 352ms)
+ GET /retro-ops 200 in 1302ms (next.js: 1004ms, application-code: 298ms)
+ GET /detective-board 200 in 1470ms (next.js: 1176ms, application-code: 294ms)
+ GET /boardroom 200 in 1232ms (next.js: 919ms, application-code: 313ms)
+ GET /ai-os 200 in 1150ms (next.js: 881ms, application-code: 269ms)
+ GET / 200 in 262ms (next.js: 15ms, application-code: 247ms)
+ GET / 200 in 49ms (next.js: 16ms, application-code: 33ms)
+ GET / 200 in 130ms (next.js: 9ms, application-code: 121ms)
+ GET / 200 in 34ms (next.js: 11ms, application-code: 23ms)
+ GET / 200 in 119ms (next.js: 8ms, application-code: 111ms)
+ GET /mission-control 200 in 130ms (next.js: 10ms, application-code: 120ms)
+ GET / 200 in 114ms (next.js: 9ms, application-code: 105ms)
+ GET /mission-control 200 in 120ms (next.js: 8ms, application-code: 112ms)
+ GET /retro-ops 200 in 135ms (next.js: 13ms, application-code: 122ms)
+ GET /mission-control 200 in 120ms (next.js: 9ms, application-code: 110ms)
+ GET /retro-ops 200 in 120ms (next.js: 9ms, application-code: 111ms)
+ GET /detective-board 200 in 151ms (next.js: 11ms, application-code: 140ms)
+ GET /boardroom 200 in 168ms (next.js: 15ms, application-code: 153ms)
+ GET /ai-os 200 in 188ms (next.js: 33ms, application-code: 155ms)
+✓ Compiled in 48ms
+✓ Compiled in 125ms
+✓ Compiled in 665ms
+✓ Compiled in 52ms
+✓ Compiled in 11ms
+✓ Compiled in 16ms
+✓ Compiled in 7ms
+✓ Compiled in 35ms
+ GET / 200 in 835ms (next.js: 292ms, application-code: 543ms)
+ GET /mission-control 200 in 805ms (next.js: 278ms, application-code: 526ms)
+ GET /retro-ops 200 in 753ms (next.js: 239ms, application-code: 514ms)
+ GET /detective-board 200 in 750ms (next.js: 257ms, application-code: 493ms)
+ GET /boardroom 200 in 748ms (next.js: 241ms, application-code: 507ms)
+ GET /ai-os 200 in 758ms (next.js: 246ms, application-code: 512ms)
+ GET / 200 in 185ms (next.js: 6ms, application-code: 179ms)
+ GET /mission-control 200 in 86ms (next.js: 6ms, application-code: 81ms)
+ GET /retro-ops 200 in 80ms (next.js: 6ms, application-code: 74ms)
+ GET /detective-board 200 in 91ms (next.js: 14ms, application-code: 77ms)
+ GET /boardroom 200 in 78ms (next.js: 3ms, application-code: 75ms)
+ GET /ai-os 200 in 87ms (next.js: 4ms, application-code: 83ms)
+ GET / 200 in 77ms (next.js: 7ms, application-code: 71ms)
+ GET /detective-board 200 in 120ms (next.js: 10ms, application-code: 110ms)
+ GET /mission-control 200 in 125ms (next.js: 10ms, application-code: 114ms)
+ GET / 200 in 116ms (next.js: 9ms, application-code: 108ms)
+ GET /mission-control 200 in 130ms (next.js: 6ms, application-code: 123ms)
+ GET /retro-ops 200 in 127ms (next.js: 10ms, application-code: 117ms)
+ GET /detective-board 200 in 136ms (next.js: 10ms, application-code: 126ms)
+ GET /boardroom 200 in 151ms (next.js: 14ms, application-code: 137ms)
+✓ Compiled in 48ms
+ GET /ai-os 200 in 152ms (next.js: 13ms, application-code: 138ms)
+ GET /boardroom 200 in 152ms (next.js: 8ms, application-code: 144ms)
+ GET /detective-board 200 in 146ms (next.js: 12ms, application-code: 134ms)
+ GET / 200 in 145ms (next.js: 12ms, application-code: 133ms)
+ GET / 200 in 309ms (next.js: 12ms, application-code: 297ms)
+ GET /mission-control 200 in 287ms (next.js: 10ms, application-code: 277ms)
+ GET /retro-ops 200 in 380ms (next.js: 15ms, application-code: 366ms)
+ GET /detective-board 200 in 421ms (next.js: 13ms, application-code: 408ms)
+ GET /boardroom 200 in 759ms (next.js: 11ms, application-code: 749ms)
+ GET /ai-os 200 in 435ms (next.js: 11ms, application-code: 424ms)
+ GET / 200 in 148ms (next.js: 6ms, application-code: 142ms)
+ GET /mission-control 200 in 89ms (next.js: 6ms, application-code: 83ms)
+ GET / 200 in 87ms (next.js: 8ms, application-code: 79ms)
+✓ Compiled in 35ms
+ GET / 200 in 409ms (next.js: 215ms, application-code: 194ms)
+ GET / 200 in 152ms (next.js: 7ms, application-code: 146ms)
+ GET / 200 in 156ms (next.js: 5ms, application-code: 151ms)
+ GET / 200 in 228ms (next.js: 6ms, application-code: 222ms)
+ GET / 200 in 520ms (next.js: 8ms, application-code: 513ms)
+ GET / 200 in 457ms (next.js: 70ms, application-code: 387ms)
+ GET / 200 in 459ms (next.js: 8ms, application-code: 451ms)
+ GET / 200 in 457ms (next.js: 138ms, application-code: 320ms)
+ GET / 200 in 459ms (next.js: 212ms, application-code: 246ms)
+ GET / 200 in 184ms (next.js: 8ms, application-code: 176ms)
+ GET / 200 in 168ms (next.js: 8ms, application-code: 160ms)
+ GET / 200 in 85ms (next.js: 6ms, application-code: 79ms)
+⨯ ./src/components/LiveCallBus.tsx:37:30
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+  [90m35 |[0m             <span className=[32m"packet-time"[0m>{packet.timestamp}</span>
+  [90m36 |[0m             <p className=[32m"packet-path"[0m>
+[31m[1m>[0m [90m37 |[0m               {packet.[36mfrom[0m} -> {packet.to}
+  [90m   |[0m                              [31m[1m^[0m
+  [90m38 |[0m             </p>
+  [90m39 |[0m             <p className=[32m"muted small"[0m>{packet.action}</p>
+  [90m40 |[0m             <span className=[32m"packet-chip"[0m>{statusLabels[packet.status]}</span>
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/components/LiveCallBus.tsx
+    ./src/components/ExpansionShowcase.tsx
+    ./src/app/page.tsx
+
+
+ GET / 500 in 1305ms (next.js: 1077ms, application-code: 228ms)
+[browser] Uncaught Error: ./src/components/LiveCallBus.tsx:37:30
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+  35 |             <span className="packet-time">{packet.timestamp}</span>
+  36 |             <p className="packet-path">
+> 37 |               {packet.from} -> {packet.to}
+     |                              ^
+  38 |             </p>
+  39 |             <p className="muted small">{packet.action}</p>
+  40 |             <span className="packet-chip">{statusLabels[packet.status]}</span>
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./src/components/LiveCallBus.tsx
+    ./src/components/ExpansionShowcase.tsx
+    ./src/app/page.tsx
+
+
+    at <unknown> (Error: ./src/components/LiveCallBus.tsx:37:30)
+    at <unknown> (Error: (./src/components/LiveCallBus.tsx:37:30)
+✓ Compiled in 57ms
+ GET / 200 in 970ms (next.js: 242ms, application-code: 728ms)
+ GET / 200 in 208ms (next.js: 6ms, application-code: 201ms)
+✓ Compiled in 29ms
+ GET / 200 in 113ms (next.js: 6ms, application-code: 108ms)
+ GET / 200 in 447ms (next.js: 200ms, application-code: 248ms)
+ GET / 200 in 178ms (next.js: 89ms, application-code: 88ms)
+ GET / 200 in 181ms (next.js: 6ms, application-code: 175ms)
+ GET / 200 in 535ms (next.js: 5ms, application-code: 530ms)
+ GET / 200 in 463ms (next.js: 8ms, application-code: 455ms)
+ GET / 200 in 369ms (next.js: 81ms, application-code: 288ms)
+ GET / 200 in 450ms (next.js: 8ms, application-code: 442ms)
+ GET / 200 in 456ms (next.js: 168ms, application-code: 288ms)
+ GET / 200 in 457ms (next.js: 244ms, application-code: 213ms)
+ GET / 200 in 179ms (next.js: 6ms, application-code: 172ms)
+ GET / 200 in 100ms (next.js: 16ms, application-code: 84ms)
+ GET / 200 in 724ms (next.js: 16ms, application-code: 709ms)
+ GET /mission-control 200 in 1797ms (next.js: 448ms, application-code: 1349ms)
+ GET / 200 in 356ms (next.js: 10ms, application-code: 346ms)
+ GET /mission-control 200 in 414ms (next.js: 13ms, application-code: 401ms)
+ GET /retro-ops 200 in 1542ms (next.js: 391ms, application-code: 1152ms)
+ GET /detective-board 200 in 1339ms (next.js: 214ms, application-code: 1124ms)
+ GET /boardroom 200 in 1625ms (next.js: 396ms, application-code: 1229ms)
+ GET / 200 in 420ms (next.js: 13ms, application-code: 407ms)
+ GET /mission-control 200 in 636ms (next.js: 14ms, application-code: 623ms)
+ GET /mission-control 200 in 420ms (next.js: 14ms, application-code: 406ms)
+ GET /retro-ops 200 in 423ms (next.js: 11ms, application-code: 411ms)
+ GET /detective-board 200 in 406ms (next.js: 13ms, application-code: 394ms)
+ GET /boardroom 200 in 406ms (next.js: 10ms, application-code: 395ms)
+ GET /ai-os 200 in 1562ms (next.js: 409ms, application-code: 1153ms)
+ GET /retro-ops 200 in 193ms (next.js: 12ms, application-code: 182ms)
+ GET /detective-board 200 in 209ms (next.js: 13ms, application-code: 196ms)
+ GET / 200 in 195ms (next.js: 13ms, application-code: 182ms)
+✓ Compiled in 24ms
+✓ Compiled in 22ms
+✓ Compiled in 23ms
+ GET / 200 in 451ms (next.js: 13ms, application-code: 438ms)
+ GET /mission-control 200 in 187ms (next.js: 13ms, application-code: 174ms)
+ GET / 200 in 165ms (next.js: 10ms, application-code: 155ms)
+ GET /mission-control 200 in 168ms (next.js: 9ms, application-code: 158ms)
+ GET /retro-ops 200 in 179ms (next.js: 11ms, application-code: 169ms)
+ GET /detective-board 200 in 202ms (next.js: 12ms, application-code: 190ms)
+ GET /boardroom 200 in 232ms (next.js: 11ms, application-code: 222ms)
+ GET /ai-os 200 in 172ms (next.js: 9ms, application-code: 163ms)
+ GET / 200 in 301ms (next.js: 17ms, application-code: 284ms)
+ GET /mission-control 200 in 414ms (next.js: 16ms, application-code: 398ms)
+ GET /retro-ops 200 in 329ms (next.js: 8ms, application-code: 322ms)
+ GET /detective-board 200 in 380ms (next.js: 10ms, application-code: 370ms)
+ GET /boardroom 200 in 343ms (next.js: 9ms, application-code: 334ms)
+ GET /ai-os 200 in 342ms (next.js: 9ms, application-code: 334ms)
+ GET / 200 in 315ms (next.js: 10ms, application-code: 305ms)
+✓ Compiled in 45ms
+ GET /ai-os 200 in 426ms (next.js: 208ms, application-code: 218ms)
+ GET /ai-os 200 in 104ms (next.js: 7ms, application-code: 97ms)
+ GET /ai-os 200 in 165ms (next.js: 6ms, application-code: 160ms)
+ GET /ai-os 200 in 96ms (next.js: 5ms, application-code: 91ms)
+ GET /ai-os 200 in 507ms (next.js: 8ms, application-code: 499ms)
+ GET /ai-os 200 in 428ms (next.js: 6ms, application-code: 422ms)
+ GET /ai-os 200 in 420ms (next.js: 7ms, application-code: 413ms)
+ GET /ai-os 200 in 418ms (next.js: 238ms, application-code: 180ms)
+ GET /ai-os 200 in 419ms (next.js: 152ms, application-code: 268ms)
+ GET /ai-os 200 in 422ms (next.js: 85ms, application-code: 336ms)
+ GET /ai-os 200 in 93ms (next.js: 8ms, application-code: 85ms)
+ GET /ai-os 200 in 167ms (next.js: 6ms, application-code: 161ms)
+✓ Compiled in 23ms
+ GET /ai-os 200 in 817ms (next.js: 176ms, application-code: 642ms)
+ GET /ai-os 200 in 533ms (next.js: 8ms, application-code: 526ms)
+ GET /ai-os 200 in 430ms (next.js: 9ms, application-code: 421ms)
+ GET /ai-os 200 in 429ms (next.js: 79ms, application-code: 350ms)
+ GET /ai-os 200 in 429ms (next.js: 151ms, application-code: 278ms)
+ GET /ai-os 200 in 430ms (next.js: 225ms, application-code: 205ms)
+ GET /ai-os 200 in 531ms (next.js: 7ms, application-code: 524ms)
+ GET /ai-os 200 in 448ms (next.js: 8ms, application-code: 439ms)
+ GET /ai-os 200 in 362ms (next.js: 8ms, application-code: 354ms)
+ GET /ai-os 200 in 363ms (next.js: 92ms, application-code: 271ms)
+ GET /ai-os 200 in 362ms (next.js: 176ms, application-code: 185ms)
+ GET /ai-os 200 in 361ms (next.js: 243ms, application-code: 119ms)
+✓ Compiled in 133ms
+ GET /ai-os 200 in 1045ms (next.js: 407ms, application-code: 638ms)
+ GET /ai-os 200 in 1907ms (next.js: 223ms, application-code: 1684ms)
+ GET /ai-os 200 in 858ms (next.js: 308ms, application-code: 550ms)
+ GET /ai-os 200 in 249ms (next.js: 25ms, application-code: 224ms)
+ GET /ai-os 200 in 900ms (next.js: 13ms, application-code: 887ms)
+✓ Compiled in 106ms
+⨯ ./src/app/globals.css:185:1
+Parsing CSS source code failed
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:185:1
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+ GET /ai-os 500 in 136ms (next.js: 76ms, application-code: 60ms)
+⨯ ./src/app/globals.css:185:1
+Parsing CSS source code failed
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:185:1
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+ GET /ai-os 500 in 51ms (next.js: 19ms, application-code: 31ms)
+⨯ ./src/app/globals.css:185:1
+Parsing CSS source code failed
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:185:1
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+⨯ ./src/app/globals.css:185:1
+Parsing CSS source code failed
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:185:1
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+ GET /ai-os 500 in 152ms (next.js: 49ms, application-code: 103ms)
+ GET /ai-os 500 in 187ms (next.js: 139ms, application-code: 48ms)
+⨯ ./src/app/globals.css:185:1
+Parsing CSS source code failed
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:185:1
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+ GET /ai-os 500 in 76ms (next.js: 36ms, application-code: 40ms)
+[browser] Uncaught Error: ./src/app/globals.css:185:1
+Parsing CSS source code failed
+  183 |   pointer-events: none;
+  184 | }
+> 185 | }
+      | ^
+  186 |
+  187 | .status-line {
+  188 |   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:185:1
+  183 |   pointer-events: none;
+  184 | }
+> 185 | }
+      | ^
+  186 |
+  187 | .status-line {
+  188 |   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+    at <unknown> (Error: ./src/app/globals.css:185:1)
+    at <unknown> (./src/app/globals.css:185:1)
+    at <unknown> (Error: (./src/app/globals.css:185:1)
+    at <unknown> (./src/app/globals.css:185:1)
+⨯ ./src/app/globals.css:185:1
+Parsing CSS source code failed
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:185:1
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+ GET /ai-os 500 in 73ms (next.js: 52ms, application-code: 21ms)
+[browser] Uncaught Error: ./src/app/globals.css:185:1
+Parsing CSS source code failed
+  183 |   pointer-events: none;
+  184 | }
+> 185 | }
+      | ^
+  186 |
+  187 | .status-line {
+  188 |   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:185:1
+  183 |   pointer-events: none;
+  184 | }
+> 185 | }
+      | ^
+  186 |
+  187 | .status-line {
+  188 |   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+    at <unknown> (Error: ./src/app/globals.css:185:1)
+    at <unknown> (./src/app/globals.css:185:1)
+    at <unknown> (Error: (./src/app/globals.css:185:1)
+    at <unknown> (./src/app/globals.css:185:1)
+⨯ ./src/app/globals.css:185:1
+Parsing CSS source code failed
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:185:1
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+⨯ ./src/app/globals.css:185:1
+Parsing CSS source code failed
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:185:1
+  [90m183 |[0m   pointer-events: none;
+  [90m184 |[0m }
+[31m[1m>[0m [90m185 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m186 |[0m
+  [90m187 |[0m .status-line {
+  [90m188 |[0m   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+ GET /ai-os 500 in 128ms (next.js: 85ms, application-code: 43ms)
+[browser] Uncaught Error: ./src/app/globals.css:185:1
+Parsing CSS source code failed
+  183 |   pointer-events: none;
+  184 | }
+> 185 | }
+      | ^
+  186 |
+  187 | .status-line {
+  188 |   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:185:1
+  183 |   pointer-events: none;
+  184 | }
+> 185 | }
+      | ^
+  186 |
+  187 | .status-line {
+  188 |   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+    at <unknown> (Error: ./src/app/globals.css:185:1)
+    at <unknown> (./src/app/globals.css:185:1)
+    at <unknown> (Error: (./src/app/globals.css:185:1)
+    at <unknown> (./src/app/globals.css:185:1)
+⨯ ./src/app/globals.css:228:1
+Parsing CSS source code failed
+  [90m226 |[0m   pointer-events: none;
+  [90m227 |[0m }
+[31m[1m>[0m [90m228 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m229 |[0m
+  [90m230 |[0m .status-line {
+  [90m231 |[0m   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:228:1
+  [90m226 |[0m   pointer-events: none;
+  [90m227 |[0m }
+[31m[1m>[0m [90m228 |[0m }
+  [90m    |[0m [31m[1m^[0m
+  [90m229 |[0m
+  [90m230 |[0m .status-line {
+  [90m231 |[0m   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+ GET /ai-os 500 in 112ms (next.js: 68ms, application-code: 44ms)
+[browser] Uncaught Error: ./src/app/globals.css:228:1
+Parsing CSS source code failed
+  226 |   pointer-events: none;
+  227 | }
+> 228 | }
+      | ^
+  229 |
+  230 | .status-line {
+  231 |   display: flex;
+
+Invalid empty selector
+
+Generated code of PostCSS transform of file content of src/app/globals.css:
+./src/app/globals.css:228:1
+  226 |   pointer-events: none;
+  227 | }
+> 228 | }
+      | ^
+  229 |
+  230 | .status-line {
+  231 |   display: flex;
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.tsx [Server Component]
+
+
+    at <unknown> (Error: ./src/app/globals.css:228:1)
+    at <unknown> (./src/app/globals.css:228:1)
+    at <unknown> (Error: (./src/app/globals.css:228:1)
+    at <unknown> (./src/app/globals.css:228:1)
+✓ Compiled in 34ms
+ GET /ai-os 200 in 1035ms (next.js: 289ms, application-code: 746ms)
+ GET / 200 in 792ms (next.js: 208ms, application-code: 584ms)
+ GET /mission-control 200 in 867ms (next.js: 211ms, application-code: 656ms)
+ GET /retro-ops 200 in 803ms (next.js: 190ms, application-code: 614ms)
+ GET /detective-board 200 in 766ms (next.js: 201ms, application-code: 565ms)
+ GET /boardroom 200 in 785ms (next.js: 205ms, application-code: 580ms)
+ GET /ai-os 200 in 197ms (next.js: 4ms, application-code: 193ms)
+[?25h
