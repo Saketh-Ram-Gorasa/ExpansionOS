@@ -45,9 +45,36 @@ Open `http://localhost:3000` to run the app.
 
 ## Core endpoint
 
-- `POST /analyze`
+- `POST /api/analyze`
   - Input: product description + current ICP (+ optional competitors/constraints)
   - Output: ranked adjacent segments, buyer shifts, pain map, wedge, debate, YC review, memo
+- `GET /api/analyze` returns the current analysis schema contract.
+- `GET /api/health`
+  - Shows API readiness and dependency state (`openai`, `crustData`).
+
+## Judge-ready workflow
+- Fill in your product and ICP.
+- Run analysis and capture:
+  - Candidate segment leaderboard
+  - Buyer map deltas
+  - Pain map with urgency signals
+  - Minimum wedge recommendation
+  - Bull/Bear debate + final verdict
+  - Expansion memo
+
+## Deployment options
+- Local dev: `npm run dev`
+- Standalone container: Dockerfile + `.dockerignore` included
+- Vercel-friendly: standard Next.js deployment with `next.config.ts`
+
+## Backend smoke check
+- Ensure env vars are set in `.env.local` for production mode:
+  - `OPENAI_API_KEY`
+  - `CRUSTDATA_API_KEY`
+  - `CRUSTDATA_MARKET_ENDPOINT`
+- Endpoint checks:
+  - `GET /api/health`
+  - `POST /api/analyze` with a sample payload.
 
 ## Contribution notes
 - Keep agent outputs schema-driven.
