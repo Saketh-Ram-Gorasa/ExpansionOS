@@ -43,9 +43,22 @@ npm run dev
 
 Open `http://localhost:3000` to run the app.
 
+## Deploy / judges
+
+Use `http://localhost:3000/api/health` to verify backend readiness and
+`http://localhost:3000/api/analyze` for live analysis payloads.
+
+Deployment options:
+
+- [Vercel](https://vercel.com) (recommended for hackathon judge visibility)
+- Docker container (`Dockerfile` included)
+- Any Next.js-compatible host (Render/Railway)
+
+See [`deployment.md`](deployment.md) for full steps and command examples.
+
 ## Core endpoint
 
-- `POST /analyze`
+- `POST /api/analyze`
   - Input: product description + current ICP (+ optional competitors/constraints)
   - Output: ranked adjacent segments, buyer shifts, pain map, wedge, debate, YC review, memo
 
