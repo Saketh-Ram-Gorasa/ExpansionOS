@@ -863,7 +863,7 @@ export async function POST(request: Request) {
     const memoAgent = await runMemoAgent(requestBody, marketScout, buyerAgent, wedgeAgent, skepticAgent, ycReviewAgent);
 
     const hasOpenAi = Boolean(process.env.OPENAI_API_KEY);
-    const payload = toResponseModel(
+    const responsePayload = toResponseModel(
       requestBody,
       marketScout,
       buyerAgent,
@@ -883,7 +883,7 @@ export async function POST(request: Request) {
       }
     );
 
-    return NextResponse.json(payload, { status: 200 });
+    return NextResponse.json(responsePayload, { status: 200 });
   } catch (error) {
     return NextResponse.json(
       {
