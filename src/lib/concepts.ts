@@ -1,17 +1,29 @@
-﻿export type AgentStyle = "sleek" | "pixel" | "lego";
+export const AGENT_FIGURE_STYLES = ["sleek", "pixel", "lego"] as const;
+export type AgentStyle = (typeof AGENT_FIGURE_STYLES)[number];
+
+export const AGENT_FIGURE_ACCENTS = ["amber", "green", "cyan", "red"] as const;
+export type AgentAccent = (typeof AGENT_FIGURE_ACCENTS)[number];
+
+export const CONCEPT_SLUGS = ["mission-control", "retro-ops", "detective-board", "ai-os", "boardroom"] as const;
+export type ConceptSlug = (typeof CONCEPT_SLUGS)[number];
+
+export type ConceptHeroMetric = {
+  label: string;
+  value: string;
+};
 
 export type Concept = {
-  slug: string;
+  slug: ConceptSlug;
   title: string;
   category: string;
   tagline: string;
   summary: string;
   accent: string;
   agentStyles: AgentStyle[];
-  agentAccents: ("amber" | "green" | "cyan" | "red")[];
+  agentAccents: AgentAccent[];
   agentNames: string[];
   previewPoints: string[];
-  heroMetrics: { label: string; value: string }[];
+  heroMetrics: ConceptHeroMetric[];
 };
 
 export const concepts: Concept[] = [
@@ -108,4 +120,3 @@ export const concepts: Concept[] = [
 ];
 
 export const getConcept = (slug: string) => concepts.find((concept) => concept.slug === slug);
-
